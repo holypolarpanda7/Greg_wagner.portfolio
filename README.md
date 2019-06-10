@@ -1,8 +1,7 @@
 This tutorial owes original credit to https://github.com/vinaysomawat/vinaysomawat.github.io
 
 # Portfolio Website.
-###### https://vinaysomawat.github.io/
-###### https://vinaysomawat.surge.sh
+###### https://holypolarpanda7.github.io/Greg_wagner.portfolio/
 
 ![Image](https://github.com/vinaysomawat/vinaysomawat.github.io/blob/master/web-dev/images/portfolio.png)
 ### About me
