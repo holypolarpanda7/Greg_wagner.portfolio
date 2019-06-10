@@ -3,7 +3,7 @@ This tutorial owes original credit to https://github.com/vinaysomawat/vinaysomaw
 # Portfolio Website.
 ###### https://holypolarpanda7.github.io/Greg_wagner.portfolio/
 
-![Image](https://github.com/vinaysomawat/vinaysomawat.github.io/blob/master/web-dev/images/portfolio.png)
+![Image](https://github.com/holypolarpanda7/Greg_wagner.portfolio/blob/master/port_preview.PNG)
 ### About me
 * Competitive Programming
 * Web Designing
@@ -30,17 +30,19 @@ This tutorial owes original credit to https://github.com/vinaysomawat/vinaysomaw
 ------------------------------------------------------------------
 To setup the project on your local machine:
 
-1. Click on `Fork`.
-2. Go to your fork and `clone` the project to your local machine.
-3. `git clone https://github.com/vinaysomawat/vinaysomawat.github.io.git`
+1. Go to original project.
+2. Click on `Fork`.
+3. Go to your fork and `clone` the project to your local machine.
+4. `git clone https://github.com/vinaysomawat/vinaysomawat.github.io.git`
 
-To contribute to the project:
+To host the page on Github:
 
-1. Choose any open issue from [here](https://github.com/vinaysomawat/vinaysomawat.github.io/issues). 
-2. Comment on the issue: `Can I work on this?` and get assigned.
-3. Make changes to your fork and send a PR.
+1. Go the the settings tab in your repository.
+2. Scroll down to the GGithub pages section.
+3. Choose Master Branch in Source tab.
+4. After reload, scroll back down to find url.
 
-To create a PR:
+To create a Pull Request:
 
 Follow the given link to make a successful and valid PR: https://help.github.com/articles/creating-a-pull-request/
 
